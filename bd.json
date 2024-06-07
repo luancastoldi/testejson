@@ -1,18 +1,106 @@
 [
     {
-        "NAME": "GHOST APPS",
-        "CONTACT": "ghostapps@apps.com",
+        "NAME": "GHOST APPS 1",
+        "CONTACT": "ghostapps1@apps.com",
         "USERS": {
             "U1": {
-                "SITE_MAIN_URL": "https://google.com.br",
+                "SITE_MAIN_URL": "https://google.com.br/",
                 "SITE_WHEN_OPEN": "https://google.com.br/promocoes",
-                "SITE_DONT_PAY": "htpps://redy.me",
+                "SITE_DONT_PAY": "https://redy.me",
                 "ACTIVE": true,
                 "PLAN_LVL": 3,
                 "AD_MANUAL": false,
-                "AD_MANUAL_URL": "https://imagem_ad_600x80.png",
+                "AD_MANUAL_URL": "https://imagem_ad_600x80.png/",
                 "AD_MOB": false,
-                "NAME_CONTACT": "FULANO DE TAL"
+                "NAME_CONTACT": "FULANO DE TAL 1"
+            },
+            "U2": {
+                "SITE_MAIN_URL": "https://example.com/",
+                "SITE_WHEN_OPEN": "https://example.com/sale",
+                "SITE_DONT_PAY": "https://anotherexample.com",
+                "ACTIVE": false,
+                "PLAN_LVL": 2,
+                "AD_MANUAL": true,
+                "AD_MANUAL_URL": "https://ad_example.png/",
+                "AD_MOB": true,
+                "NAME_CONTACT": "FULANO DE TAL 2"
+            },
+            "U3": {
+                "SITE_MAIN_URL": "https://yahoo.com/",
+                "SITE_WHEN_OPEN": "https://yahoo.com/offers",
+                "SITE_DONT_PAY": "https://skip.com",
+                "ACTIVE": true,
+                "PLAN_LVL": 1,
+                "AD_MANUAL": false,
+                "AD_MANUAL_URL": "https://ad_yahoo.png/",
+                "AD_MOB": false,
+                "NAME_CONTACT": "FULANO DE TAL 3"
+            },
+            "U4": {
+                "SITE_MAIN_URL": "https://bing.com/",
+                "SITE_WHEN_OPEN": "https://bing.com/deals",
+                "SITE_DONT_PAY": "https://pass.com",
+                "ACTIVE": false,
+                "PLAN_LVL": 4,
+                "AD_MANUAL": true,
+                "AD_MANUAL_URL": "https://ad_bing.png/",
+                "AD_MOB": true,
+                "NAME_CONTACT": "FULANO DE TAL 4"
+            },
+            "U5": {
+                "SITE_MAIN_URL": "https://duckduckgo.com/",
+                "SITE_WHEN_OPEN": "https://duckduckgo.com/specials",
+                "SITE_DONT_PAY": "https://skip.me",
+                "ACTIVE": true,
+                "PLAN_LVL": 5,
+                "AD_MANUAL": false,
+                "AD_MANUAL_URL": "https://ad_duckduckgo.png/",
+                "AD_MOB": false,
+                "NAME_CONTACT": "FULANO DE TAL 5"
+            },
+            "U6": {
+                "SITE_MAIN_URL": "https://ask.com/",
+                "SITE_WHEN_OPEN": "https://ask.com/promos",
+                "SITE_DONT_PAY": "https://avoid.com",
+                "ACTIVE": false,
+                "PLAN_LVL": 1,
+                "AD_MANUAL": true,
+                "AD_MANUAL_URL": "https://ad_ask.png/",
+                "AD_MOB": true,
+                "NAME_CONTACT": "FULANO DE TAL 6"
+            },
+            "U7": {
+                "SITE_MAIN_URL": "https://baidu.com/",
+                "SITE_WHEN_OPEN": "https://baidu.com/events",
+                "SITE_DONT_PAY": "https://ignore.com",
+                "ACTIVE": true,
+                "PLAN_LVL": 2,
+                "AD_MANUAL": false,
+                "AD_MANUAL_URL": "https://ad_baidu.png/",
+                "AD_MOB": false,
+                "NAME_CONTACT": "FULANO DE TAL 7"
+            },
+            "U8": {
+                "SITE_MAIN_URL": "https://wolframalpha.com/",
+                "SITE_WHEN_OPEN": "https://wolframalpha.com/deals",
+                "SITE_DONT_PAY": "https://bypass.com",
+                "ACTIVE": false,
+                "PLAN_LVL": 3,
+                "AD_MANUAL": true,
+                "AD_MANUAL_URL": "https://ad_wolfram.png/",
+                "AD_MOB": true,
+                "NAME_CONTACT": "FULANO DE TAL 8"
+            },
+            "U9": {
+                "SITE_MAIN_URL": "https://ecosia.org/",
+                "SITE_WHEN_OPEN": "https://ecosia.org/sales",
+                "SITE_DONT_PAY": "https://block.com",
+                "ACTIVE": true,
+                "PLAN_LVL": 4,
+                "AD_MANUAL": false,
+                "AD_MANUAL_URL": "https://ad_ecosia.png/",
+                "AD_MOB": false,
+                "NAME_CONTACT": "FULANO DE TAL 9"
             }
         }
     }
